@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css';
-import Saikal from '../../Saikal.svg';
+import Saikal from '../../Saikal.jpg';
 
 class About extends React.Component {
     render() {
