@@ -12,6 +12,16 @@ class Gallery extends React.Component {
                 <Artpiece />
                 <Artpiece />
                 <Artpiece />
+                <Artpiece />
+                <Artpiece />
+                <Artpiece />
+                <Artpiece />
+                <Artpiece />
+                <Artpiece />
+                <Artpiece />
+                <Artpiece />
+                <Artpiece />
+                <Artpiece />
             </div>
         );
     }
