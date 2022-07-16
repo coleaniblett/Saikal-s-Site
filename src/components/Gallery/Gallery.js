@@ -5,7 +5,7 @@ import Artpiece from '../Artpiece/Artpiece';
 class Gallery extends React.Component {
     render() {
         return (
-            <div className="BusinessList">
+            <div className="Gallery">
                 <Artpiece />
                 <Artpiece />
                 <Artpiece />

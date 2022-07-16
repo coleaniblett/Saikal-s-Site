@@ -1,14 +1,16 @@
 .Artpiece {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
-    width: 16.66rem;
-    margin: 0 .5rem 2.3rem .5rem;
+    /*justify-content: space-between;*/
+    /*width: 16.66rem;*/
+    /*margin: 0 .5rem 2.3rem .5rem;*/
   }
   
   .Artpiece .image-container {
-    height: 16.66rem;
-    margin-bottom: 1rem;
+    /*height: 16.66rem;
+    margin-bottom: 1rem;*/
+    width: 250px;
+    max-height: 100%;
   }
   
   .Artpiece h2 {

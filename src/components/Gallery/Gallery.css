@@ -1,8 +1,9 @@
-.BusinessList {
+.Gallery {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
+    margin: 20px;
     
     margin-left: 160px;
-    padding: 0px 10px;
+    /*padding: 0px 10px;*/
   }
